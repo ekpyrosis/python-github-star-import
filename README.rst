@@ -14,7 +14,6 @@ Overview
         | |codecov|
     * - package
       - | |version| |wheel| |supported-versions| |supported-implementations|
-        | |commits-since|
 
 .. |docs| image:: https://readthedocs.org/projects/python-github-star-import/badge/?style=flat
     :target: https://readthedocs.org/projects/python-github-star-import
@@ -39,10 +38,6 @@ Overview
 .. |version| image:: https://img.shields.io/pypi/v/github-star-import.svg
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/github-star-import
-
-.. |commits-since| image:: https://img.shields.io/github/commits-since/ekpyrosis/python-github-star-import/v0.1.1.svg
-    :alt: Commits since latest release
-    :target: https://github.com/ekpyrosis/python-github-star-import/compare/v0.1.1...master
 
 .. |wheel| image:: https://img.shields.io/pypi/wheel/github-star-import.svg
     :alt: PyPI Wheel
