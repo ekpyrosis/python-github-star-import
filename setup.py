@@ -40,7 +40,7 @@ if 'TOXENV' in os.environ and 'SETUPPY_CFLAGS' in os.environ:
 
 setup(
     name='github-star-import',
-    version='0.1.0',
+    version='0.1.1',
     license='BSD 2-Clause License',
     description='Github star importer and merger.',
     long_description='%s\n%s' % (
