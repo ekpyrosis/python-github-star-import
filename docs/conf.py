@@ -26,7 +26,7 @@ project = u'Github Star Import'
 year = '2018'
 author = u'H. Sinan Alioglu'
 copyright = '{0}, {1}'.format(year, author)
-version = release = u'version = release = '0.1.1''
+version = release = u'0.1.1'
 
 pygments_style = 'trac'
 templates_path = ['.']
