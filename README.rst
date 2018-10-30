@@ -72,7 +72,7 @@ Usage
 
     github-star-import github_username github_access_token import_account_username
 
-    github-star-import github_username github_access_token import_account_username
+    github-star-import ekp 95ab5c9c26a5b1592d0d97f9b60afc34b6230521 github
 
 Documentation
 =============
