@@ -65,6 +65,15 @@ Installation
 
     pip install github-star-import
 
+Usage
+============
+
+::
+
+    github-star-import github_username github_access_token import_account_username
+
+    github-star-import github_username github_access_token import_account_username
+
 Documentation
 =============
 

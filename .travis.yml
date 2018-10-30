@@ -27,7 +27,7 @@ matrix:
       sudo: required
       env:
         - TOXENV=py37,report,codecov
-    - python: 'pypy-5.4'
+    - python: 'pypy-6.0'
       env:
         - TOXENV=pypy,report,codecov
 before_install:
