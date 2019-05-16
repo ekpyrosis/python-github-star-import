@@ -54,7 +54,7 @@ Overview
 
 .. end-badges
 
-Github star importer and merger.
+Import and merge any Github account's stars.
 
 * Free software: BSD 2-Clause License
 

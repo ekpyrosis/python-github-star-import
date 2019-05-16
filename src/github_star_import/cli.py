@@ -37,7 +37,7 @@ def main(argv=sys.argv):
             print(owner, reponame)
             try:
                 argv[3] == '--dry'
-            except NoDry:
+            except NameError:
                 if not gh.is_starred(owner, reponame):
                     gh.star(owner, reponame)
                     print('*')
