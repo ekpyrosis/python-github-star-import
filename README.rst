@@ -2,6 +2,10 @@
 Overview
 ========
 
+Import and merge any Github account's stars.
+
+Version: v0.2.2.
+
 .. start-badges
 
 .. list-table::
@@ -37,24 +41,22 @@ Overview
 
 .. |version| image:: https://img.shields.io/pypi/v/github-star-import.svg
     :alt: PyPI Package latest release
-    :target: https://pypi.python.org/pypi/github-star-import
+    :target: https://pypi.org/project/github-star-import
 
 .. |wheel| image:: https://img.shields.io/pypi/wheel/github-star-import.svg
     :alt: PyPI Wheel
-    :target: https://pypi.python.org/pypi/github-star-import
+    :target: https://pypi.org/project/github-star-import
 
 .. |supported-versions| image:: https://img.shields.io/pypi/pyversions/github-star-import.svg
     :alt: Supported versions
-    :target: https://pypi.python.org/pypi/github-star-import
+    :target: https://pypi.org/project/github-star-import
 
 .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/github-star-import.svg
     :alt: Supported implementations
-    :target: https://pypi.python.org/pypi/github-star-import
+    :target: https://pypi.org/project/github-star-import
 
 
 .. end-badges
-
-Import and merge any Github account's stars.
 
 * Free software: BSD 2-Clause License
 
