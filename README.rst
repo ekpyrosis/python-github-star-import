@@ -79,7 +79,7 @@ Usage
 Documentation
 =============
 
-https://python-github-star-import.readthedocs.io/
+https://python-github-star-import.readthedocs.io/en/latest/
 
 Development
 ===========

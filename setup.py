@@ -83,7 +83,7 @@ setup(
     ],
     install_requires=[
         # eg: 'aspectlib==1.1.1', 'six>=1.7',
-        'github3.py==1.3.0'
+        'github3.py>=1.2.0'
     ],
     extras_require={
         # eg:
